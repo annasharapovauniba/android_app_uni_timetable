@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MY Uni</string>
+
+    <string-array name="campuses">
+        <item name="default"></item>
+        <item name="ausstr">AU37</item>
+        <item name="feki">F21</item>
+        <item name="fischstr">F15</item>
+        <item name="fleischstr">FL2</item>
+        <item name="kapuzinerstr">K16</item>
+        <item name="kaert">KÄ7</item>
+        <item name="amkranen10">KR10</item>
+        <item name="amkranen12">KR12</item>
+        <item name="markusstr1">MG1</item>
+        <item name="markusstr2">MG2</item>
+        <item name="anderuni2">U2</item>
+        <item name="anderuni5">U5</item>
+        <item name="anderuni7">U7</item>
+        <item name="weberei">WE5</item>
+        <item name="other">other</item>
+    </string-array>
+    <string name="title_activity_auto_login">AutoLoginActivity</string>
+</resources>
